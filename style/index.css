@@ -1,0 +1,13 @@
+.bot{
+    color: black;
+    background-color: aquamarine;
+    text-align: center;
+    padding: 5px;
+    box-shadow: 5px 5px 10px rgb(10, 8, 8);
+    border-radius: 10px;
+}
+.big{
+    color: brown;
+    background-color: yellow;
+    border-radius: auto;
+}
